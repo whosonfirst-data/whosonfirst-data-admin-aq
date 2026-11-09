@@ -180,8 +180,7 @@
     "wd:wordcount":2142,
     "wof:belongsto":[
         102191579,
-        85632715,
-        85681139
+        85632715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -201,14 +200,13 @@
         {
             "continent_id":102191579,
             "country_id":85632715,
-            "locality_id":890424159,
-            "region_id":85681139
+            "locality_id":890424159
         }
     ],
     "wof:id":890424159,
     "wof:lastmodified":1690850367,
     "wof:name":"McMurdo Station",
-    "wof:parent_id":85681139,
+    "wof:parent_id":85632715,
     "wof:placetype":"locality",
     "wof:population":1258,
     "wof:population_rank":3,

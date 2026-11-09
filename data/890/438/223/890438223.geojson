@@ -156,8 +156,7 @@
     "wd:wordcount":4620,
     "wof:belongsto":[
         102191579,
-        85632715,
-        85681139
+        85632715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,14 +172,13 @@
         {
             "continent_id":102191579,
             "country_id":85632715,
-            "locality_id":890438223,
-            "region_id":85681139
+            "locality_id":890438223
         }
     ],
     "wof:id":890438223,
     "wof:lastmodified":1690850368,
     "wof:name":"Amundsen-Scott South Pole Station",
-    "wof:parent_id":85681139,
+    "wof:parent_id":85632715,
     "wof:placetype":"locality",
     "wof:population":150,
     "wof:population_rank":1,
