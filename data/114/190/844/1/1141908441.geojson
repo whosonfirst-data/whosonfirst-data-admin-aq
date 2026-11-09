@@ -134,7 +134,7 @@
     "wof:concordances":{},
     "wof:country":"AQ",
     "wof:created":1499130901,
-    "wof:geomhash":"8f87841accb97d096a27c3c38e4acaa0",
+    "wof:geomhash":"477007848a2269203fc2a2aad1c811f8",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -158,5 +158,5 @@
     176.994452,
     -90.0
 ],
-  "geometry": {"coordinates":[176.994452,-90.0],"type":"Point"}
+  "geometry": {"coordinates":[176.994452,-90],"type":"Point"}
 }

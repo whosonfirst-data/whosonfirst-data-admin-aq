@@ -83,7 +83,7 @@
         "wk:page":"Villa_Las_Estrellas"
     },
     "wof:country":"AQ",
-    "wof:geomhash":"b82cb92757802c5a9fffd65edba1713e",
+    "wof:geomhash":"654d14185662d8584af1829463708f86",
     "wof:hierarchy":[
         {
             "continent_id":102191579,
@@ -108,5 +108,5 @@
     -58.96109000000001,
     -62.20001
 ],
-  "geometry": {"coordinates":[-58.96109000000001,-62.20001],"type":"Point"}
+  "geometry": {"coordinates":[-58.96109,-62.20001],"type":"Point"}
 }

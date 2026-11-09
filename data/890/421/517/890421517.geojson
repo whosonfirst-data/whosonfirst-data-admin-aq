@@ -252,7 +252,7 @@
     "wof:geom_alt":[
         "naturalearth"
     ],
-    "wof:geomhash":"e3417346484720ead5424c2d0094e7fb",
+    "wof:geomhash":"c6bd94445883a2d39639c2ed05f626df",
     "wof:hierarchy":[
         {
             "country_id":85632715,
@@ -277,5 +277,5 @@
     140.0,
     -66.66667
 ],
-  "geometry": {"coordinates":[140.0,-66.66667],"type":"Point"}
+  "geometry": {"coordinates":[140,-66.66667],"type":"Point"}
 }

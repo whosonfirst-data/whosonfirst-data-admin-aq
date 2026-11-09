@@ -153,7 +153,7 @@
     },
     "wof:country":"AQ",
     "wof:created":1497295953,
-    "wof:geomhash":"e20d0d7b94a920a0e2812cb80fbc589b",
+    "wof:geomhash":"671385416b4f19f17b2d213104b7a40d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -180,5 +180,5 @@
     -57.0,
     -63.4
 ],
-  "geometry": {"coordinates":[-57.0,-63.4],"type":"Point"}
+  "geometry": {"coordinates":[-57,-63.4],"type":"Point"}
 }
